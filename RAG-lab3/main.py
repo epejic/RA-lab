@@ -25,7 +25,7 @@ matchSpeedsCoef = 0.055
 avoidOtherBirdsCoef = 2
 initialParticleVCoef = 0.95
 
-speedLimit = 0.008
+speedLimit = 0.006
 avoidRadius = 1
 centerOfMassRadius = 2
 
